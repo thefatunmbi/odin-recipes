@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(42, 157, 165);
+}
+
+.home-div{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 5px solid rgb(58, 233, 15);
+}
+
+.header1 {
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
