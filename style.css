@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 body {
     background-color: rgb(42, 157, 165);
 }
@@ -6,10 +11,16 @@ body {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     border: 5px solid rgb(58, 233, 15);
+    text-align: center;
+    
 }
 
 .header1 {
     padding: 5px;
     margin: 10px;
     text-align: center;
+}
+li {
+  display: inline-block;
+  margin: 0 10px;
 }
